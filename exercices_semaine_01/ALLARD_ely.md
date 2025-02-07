@@ -8,7 +8,7 @@ Voici une photo que je trouve drole
 
 voici une video qui pourrais vous intéresser
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="Rick Astley - Never Gonna Give You Up (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<https://www.youtube.com/embed/dQw4w9WgXcQ>
 
 voici un lien a une endroit qui pourrais vous aider
 
