@@ -41,12 +41,12 @@
 
 <h2>Ce qui m’a le plus plu</h2>
 
-Ce qui m’a le plus plu ses quand les petits montres apparaissait puisqu’il avait chacun leur petite façon et personnalité que tu étais capable de voir. Aussi, j’ai adoré la façon dont on devait bouger l’écran pour que on puisse avoir accès au petit monstres mignon.
+<p>Ce qui m’a le plus plu ses quand les petits montres apparaissait puisqu’il avait chacun leur petite façon et personnalité que tu étais capable de voir. Aussi, j’ai adoré la façon dont on devait bouger l’écran pour que on puisse avoir accès au petit monstres mignon.</p>
 
 
 <h2>Ce que je changerais</h2>
 
-Se que je ferais autrement ses que je mettrais plus d’étoiles dans leur cas pour trouver plus de monstres ou qu’avant que ça commence tu puisses créer ton propre monstres et que quand tu cherche ses lui que tu trouveras.
+<p>Se que je ferais autrement ses que je mettrais plus d’étoiles dans leur cas pour trouver plus de monstres ou qu’avant que ça commence tu puisses créer ton propre monstres et que quand tu cherche ses lui que tu trouveras.</p>
 
 
 <h3>Crédit</h3>
