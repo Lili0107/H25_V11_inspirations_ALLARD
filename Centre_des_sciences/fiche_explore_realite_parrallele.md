@@ -1,4 +1,5 @@
 <h1><strong>Centres des sciences</strong></h1>
+
 ![photo_devant_edifice](https://github.com/user-attachments/assets/228683a8-8aeb-44ef-97d7-d8ebdd232f96)
 
 <p>Mon exposition était dans le coin de explore</p>
@@ -13,6 +14,11 @@
 <h3><strong>Description de l’œuvre</strong></h3>
 
 <p>L’œuvre est un écran il y a un plus haut et un plus bas pour que toutes les personnes puissent l’essayer. Son écran bouge dans une rotation de 180 degrés. Sur l’écran nous commençons par avoir un minuteur qui descend de 3 jusqu’à 1 et l’activité commence. Un minuteur de 5 minutes ou un peu plus va en descendant et tu dois trouver 5 étoiles cacher avec l’écran pour trouver les 5 monstres caché.</p>
+
+![ecran_de_base](https://github.com/user-attachments/assets/89b368b1-8cf8-4f67-a256-01164d04bb5b)<
+
+![derriere_ecran](https://github.com/user-attachments/assets/d5404a73-f5b4-4705-bcbf-48f8d731db03)
+
 
 
 <h3><strong>Type d’installations</strong></h3>
