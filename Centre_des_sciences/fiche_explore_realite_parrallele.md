@@ -24,7 +24,7 @@ Le type d’installation ce sont des écrans et des poigné sur les côtes.
 Pour la mise en espace je miserais vers que ses deux écrans placés sur chacun un poteau rotatif. 
 
 
-<h4>composantes</h4>
+<h3>composantes</h3>
 
 Pour les composantes il y aurait le processeur, la mémoire vive (RAM), le stockage interne, et l'écran je dirais qu’il faudrait un capteur aussi.
 
