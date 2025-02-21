@@ -34,7 +34,7 @@
 <p>Pour la mise en espace je miserais vers que ses deux écrans placés sur chacun un poteau rotatif.</p>
 
 
-<h3><strong>composantes</strong></h3>
+<h3><strong>Composantes</strong></h3>
 
 <p>Pour les composantes il y aurait le processeur, la mémoire vive (RAM), le stockage interne, et l'écran je dirais qu’il faudrait un capteur aussi.</p>
 
