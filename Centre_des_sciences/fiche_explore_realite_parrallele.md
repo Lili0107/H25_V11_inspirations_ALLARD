@@ -1,5 +1,6 @@
 <h1><strong>Centres des sciences</strong></h1>
-![photo de groupe devant l edifice!](/media/photo_devant_edifice.jpg)
+![photo_devant_edifice](https://github.com/user-attachments/assets/228683a8-8aeb-44ef-97d7-d8ebdd232f96)
+
 <p>Mon exposition était dans le coin de explore</p>
 <p>Centre des sciences</p>
 <p>L’exposition est de l’interactivité immersive</p>
