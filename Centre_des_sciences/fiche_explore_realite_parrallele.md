@@ -1,5 +1,5 @@
 <h1><strong>Centres des sciences</strong></h1>
-
+![photo de groupe de l edifice!](/media/photo_devant_edifice.jpg)
 <p>Mon exposition était dans le coin de explore</p>
 <p>Centre des sciences</p>
 <p>L’exposition est de l’interactivité immersive</p>
