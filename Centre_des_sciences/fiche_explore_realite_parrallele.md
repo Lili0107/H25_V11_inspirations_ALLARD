@@ -10,6 +10,9 @@
 <p>La firme serait le centre des sciences</p>
 <p>Malheureusement dans le panneau explicatif nous n’avons pas année de réalisation mais nous savons qu’il est la depuis au moins 2024</p>
 
+![panneau_de_base](https://github.com/user-attachments/assets/93e72273-9161-4da7-a49b-69bdaebc34a8)
+
+
 
 <h3><strong>Description de l’œuvre</strong></h3>
 
@@ -57,3 +60,10 @@
 
 
 <h3><strong>Crédit</strong></h3>
+
+
+![crédit (3)](https://github.com/user-attachments/assets/abc543cb-23a1-4d62-b8a4-b461e6f04a39)
+![crédit (2)](https://github.com/user-attachments/assets/43ed3ea8-f913-4a46-8610-538d94e5ca78)
+![crédit (1)](https://github.com/user-attachments/assets/431499fc-11c9-43b6-b0fc-c51756379aab)
+![crédit (5)](https://github.com/user-attachments/assets/7d92d874-cc50-47e2-944d-877303123acb)
+![crédit (4)](https://github.com/user-attachments/assets/a4120e77-6518-45e5-9d29-0c78d632f956)
