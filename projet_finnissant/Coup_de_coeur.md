@@ -1,1 +1,2 @@
 
+![photo](media/photo.jpg)
